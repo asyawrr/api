@@ -23,3 +23,9 @@
 </br>
 
 [Коллекция запросов в Postman для тестирования SOAP-сервиса](https://www.postman.com/descent-module-astronomer-62940589/workspace/sherstniuk-study/collection/27495333-4df5c192-86b5-4c0a-845b-c6755634e8aa?action=share&creator=27495333&active-environment=27495333-96239378-4328-4170-b58b-f0c8b7ee1d64)
+
+## Тест-кейы для тестирования API
+По ссылке ниже находится PDF-документ с экспортированными из QASE тест-кейсами для тестирования различных методов API.
+
+
+[Тест-кейсы в формате PDF](https://github.com/user-attachments/files/15521463/G7-2024-06-01.1.pdf)
